@@ -5,4 +5,4 @@ to download repository:
     npm install 
       npm start
 
-You can play the game on the deployed app on this link : https://react-hooks-tetris-app.herokuapp.com/
+You can play the game on the deployed app on this link : https://react-hooks-tetris.herokuapp.com/
